@@ -1,31 +1,14 @@
 [
 	{
-		"key": "dbln",
-		"value": "%7B%2261582293335389%22%3A%22pJLI4vAy%22%7D",
-		"domain": "facebook.com",
-		"path": "/login/device-based/",
-		"hostOnly": false,
-		"creation": "2026-05-15T10:21:00.103Z",
-		"lastAccessed": "2026-05-15T10:21:00.107Z"
-	},
-	{
-		"key": "datr",
-		"value": "J_IGauMinWTx3l30qd2UrgTl",
+		"key": "fr",
+		"value": "00hTNZryxulbtD8IQ.AWdL3MVqqnZQ2P-TF_bXazH-iDgw9dF6jOPINdFxo7sTyF8oBBs.BqBvIn..AAA.0.0.BqBvUt.AWcSHHEz6ismEfHHsXIe24-wa8k",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-05-15T10:21:00.107Z",
-		"lastAccessed": "2026-05-15T10:21:00.107Z"
-	},
-	{
-		"key": "sb",
-		"value": "J_IGav1w_bRREwGj-b9rwbhm",
-		"domain": "facebook.com",
-		"path": "/",
-		"hostOnly": false,
-		"creation": "2026-05-15T10:21:00.107Z",
-		"lastAccessed": "2026-05-15T10:21:00.107Z"
-	},
+		"creation": "2026-05-15T10:27:58.853Z",
+		"lastAccessed": "2026-05-15T10:27:58.853Z"
+	}
+]	},
 	{
 		"key": "ps_l",
 		"value": "1",
